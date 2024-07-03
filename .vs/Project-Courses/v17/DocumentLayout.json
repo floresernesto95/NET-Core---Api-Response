@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|d:\\utn\\programaci\u00F3n iii\\parcial 2\\project-courses\\project-courses - responseapi\\validators\\coursedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|solutionrelative:validators\\coursedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|d:\\utn\\programaci\u00F3n iii\\parcial 2\\project-courses\\project-courses - responseapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|d:\\utn\\programaci\u00F3n iii\\parcial 2\\project-courses\\project-courses - responseapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|d:\\utn\\programaci\u00F3n iii\\parcial 2\\project-courses\\project-courses - responseapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|d:\\utn\\programaci\u00F3n iii\\parcial 2\\project-courses\\project-courses - responseapi\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3A2D17-89DB-4EA7-84EC-856ED7E22453}|Project-Courses.csproj|solutionrelative:repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseDtoValidator.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Validators\\CourseDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CourseDtoValidator.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Validators\\CourseDtoValidator.cs",
+              "RelativeToolTip": "Validators\\CourseDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:39:41.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:32:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:23:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwHYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:15:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Parcial 2\\Project-Courses\\Project-Courses - ResponseApi\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:15:00.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
